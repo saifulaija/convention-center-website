@@ -1,10 +1,20 @@
-.banner__image{
-    background-image: url("../images/banner.png");
-   height: 600px;
-   width: auto;
-   
-  
+.banner__image__one{
+    background-image: url("../images/5.jpg");
+   height: 100vh;
+   width: auto;  
 }
+.banner__image__two{
+    background-image: url("../images/3.jpg");
+   height: 100vh;
+   width: auto; 
+   background-repeat: no-repeat; 
+}
+.banner__image__three{
+    background-image: url("../images/5.jpg");
+   height: 100vh;
+   width: auto;  
+}
+
 
 .banton{
     margin-left: 200px;
